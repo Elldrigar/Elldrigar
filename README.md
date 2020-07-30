@@ -4,21 +4,21 @@
     <img src="https://gawron.me/gawronLogo.png" alt="Logo" width="100">
   </a>
 
-  <h1 align="center">Hi 👋 Im Artur</h1>
-
+  <h1 align="center">Hi👋  Im Artur</h1>
+  <h2 align="center">..:: Aspiring Junior Frontend Developer ::..</h2>
+  <h3 align="center">  :: Fullstack Developer in the Future ::  </h3>
   <p align="center">
-    ..:: Aspiring Junior Frontend Developer ::..
-    <br />
-    <br />
     <a href="https://gawron.me">Portoflio</a>
     ||
-    <a href="mailto:artur@gawron.me">Send 📧</a>
+    <a href="mailto:artur@gawron.me">Send me 📧</a>
   </p>
  
 [![Twitter Follow][twitterbadge-url]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elldrigar&count_private=true&show_icons=true&theme=radical" />
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elldrigar&count_private=true&show_icons=true&theme=synthwave" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elldrigar" />
 
 <!-- LINKS -->

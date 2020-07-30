@@ -1,16 +1,30 @@
-### Hi there 👋
+<br />
+<p align="center">
+  <a href="https://github.com/Elldrigar">
+    <img src="https://gawron.me/gawronLogo.png" alt="Logo" width="100">
+  </a>
 
-<!--
-**Elldrigar/Elldrigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center">Hi 👋 Im Artur</h1>
 
-Here are some ideas to get you started:
+  <p align="center">
+    ..:: Aspiring Junior Frontend Developer ::..
+    <br />
+    <br />
+    <a href="https://gawron.me">Portoflio</a>
+    ||
+    <a href="mailto:artur@gawron.me">Send 📧</a>
+  </p>
+ 
+[![Twitter Follow][twitterbadge-url]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elldrigar&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- LINKS -->
+
+[twitterbadge-url]: https://badgen.net/twitter/follow/Elldrigar?icon=twitter
+[twitter-url]: https://twitter.com/Elldrigar
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/artur-gawron-41bb40138/

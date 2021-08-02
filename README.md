@@ -5,8 +5,8 @@
   </a>
 
   <h1 align="center">Hi👋  I'm Artur</h1>
-  <h2 align="center">...::: Frontend Developer :::...</h2>
-  <h3 align="center">  ..:: Fullstack Developer in the Future ::..  </h3>
+  <h2 align="center">...::: Piu piu :::...</h2>
+  <h3 align="center">  ..:: Pif paf ::..  </h3>
   <p align="center">
     <a href="https://gawron.me">💼 Portfolio</a>
     ||
